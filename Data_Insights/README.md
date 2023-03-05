@@ -7,7 +7,7 @@ After completing the data cleaning task, we will be exploring the Sprocket Centr
 
 2. **RFM Analysis:** We will then use RFM analysis to segment customers based on their transaction history. RFM analysis stands for Recency, Frequency, and Monetary value analysis, and involves ranking customers based on these three criteria.
 
-3. **Customer Segmentation:** we will use RFM analysis to segment customers into different groups based on their behavior and value.
+3. **Customer Segmentation:** We will use RFM analysis to segment customers into different groups based on their behavior and value.
 
 
 4. **Identifying Top 1000 customers:** Finally, we will use the customer segmentation results to identify the top 1000 customers of Sprocket Central Pty Ltd.
