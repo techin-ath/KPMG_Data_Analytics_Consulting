@@ -15,3 +15,4 @@ The data provided by Sprocket Central Pty Ltd requires some cleaning before it c
 * **Validity:** Refers to the extent to which data is accurate and relevant for the intended purpose. Valid data adheres to defined standards and criteria.
 
 * **Uniqueness:** Refers to the extent to which data is distinct and free from duplicates. Unique data ensures that each record is separate and distinguishable from others.
+
