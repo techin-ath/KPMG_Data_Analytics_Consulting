@@ -17,7 +17,7 @@ The objective of this project is to analyze the customer data of Sprocket Centra
 ## Tasks
 This project consists of two main tasks:
 1. [Data Cleaning](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/tree/main/Data_Cleaning)
-2. [Data Insight](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/blob/main/Data_Insights/Top_1000_Customers.csv)
+2. [Data Insight](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/tree/main/Data_Insights)
 
 
 
