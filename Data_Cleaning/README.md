@@ -1,17 +1,49 @@
-# Data Cleaning
-The data provided by Sprocket Central Pty Ltd requires some cleaning before it can be used for further analysis. The scope of the data cleaning task is as follows:
-### Data Quality Framework
-* **Accuracy:** Refers to the correctness and precision of the data. Accurate data is free from errors and mistakes, and is reliable for use.
 
-* **Completeness:** Refers to the extent to which all required data is present. Complete data includes all necessary fields, records, and values.
+# KPMG Data Analytics Consulting
+## Background Information
 
-* **Consistency:** Refers to the degree to which data is uniform and in agreement across different sources and over time. Consistent data should not contradict itself or other sources.
+Sprocket Central Pty Ltd is a medium-sized company that sells bikes and cycling accessories. The company wants to optimize its marketing strategy and improve customer engagement by leveraging data analytics. KPMG, a leading professional services firm, has been engaged to help Sprocket Central Pty Ltd in this effort.
 
-* **Currency:** Refers to the timeliness of the data. Current data is up-to-date and reflects the most recent information available.
+Four datasets are provided:
+* [Customer Demographic](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/blob/main/Data_Cleaning/Cust_Demo_Cleaned.csv)
+* [Customer Addresses](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/blob/main/Data_Cleaning/Cust_Addr_Cleaned.csv)
+* [Transactions data in the past 3 months](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/blob/main/Data_Cleaning/Trans_Cleaned.csv)
+* [New Customer List](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/blob/main/Data_Cleaning/New_Cust_Cleaned.csv)
 
-* **Relevancy:** Refers to the extent to which data is useful and applicable to the task at hand. Relevant data is aligned with the objectives and goals of the analysis.
+## Project Objective
+The objective of this project is to analyze the customer data of Sprocket Central Pty Ltd using various data analytics techniques in order to provide insights and recommendations for driving company growth.
 
-* **Validity:** Refers to the extent to which data is accurate and relevant for the intended purpose. Valid data adheres to defined standards and criteria.
 
-* **Uniqueness:** Refers to the extent to which data is distinct and free from duplicates. Unique data ensures that each record is separate and distinguishable from others.
+## Tasks
+This project consists of two main tasks:
+1. [Data Cleaning](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/tree/main/Data_Cleaning)
+2. [Data Insight](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/tree/main/Data_Insights)
+
+
+
+
+
+## Methods used
+The project involves several methods used in data analytics, including:                    
+* Data Cleaning
+* Exploratory Aata Analysis(EDA)
+* RFM Analysis
+* Customer Segmentation
+* Data Visualization
+
+
+## Technologies
+The following technologies were used in the project:
+* Python
+* Jupyter Notebook
+
+
+## Installation
+```bash
+  pip install pandas
+  pip install DateTime
+  pip install seaborn
+  pip install matplotlib
+```
+
 
