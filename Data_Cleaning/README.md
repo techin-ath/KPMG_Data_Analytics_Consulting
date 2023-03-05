@@ -1,7 +1,6 @@
 # Data Cleaning
 The data provided by Sprocket Central Pty Ltd requires some cleaning before it can be used for further analysis. The scope of the data cleaning task is as follows:
 ### Data Quality Framework
-
 * **Accuracy:** Refers to the correctness and precision of the data. Accurate data is free from errors and mistakes, and is reliable for use.
 
 * **Completeness:** Refers to the extent to which all required data is present. Complete data includes all necessary fields, records, and values.
