@@ -15,3 +15,10 @@ The data provided by Sprocket Central Pty Ltd requires some cleaning before it c
 * **Validity:** Refers to the extent to which data is accurate and relevant for the intended purpose. Valid data adheres to defined standards and criteria.
 
 * **Uniqueness:** Refers to the extent to which data is distinct and free from duplicates. Unique data ensures that each record is separate and distinguishable from others.
+
+### Data 
+There are four datasets:
+* [Customer Demographic](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/blob/main/Data_Cleaning/Cust_Demo_Cleaned.csv)
+* [Customer Addresses](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/blob/main/Data_Cleaning/Cust_Addr_Cleaned.csv)
+* [Transactions data in the past 3 months](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/blob/main/Data_Cleaning/Trans_Cleaned.csv)
+* [New Customer List](https://github.com/techin-ath/KPMG_Data_Analytics_Consulting/blob/main/Data_Cleaning/New_Cust_Cleaned.csv)
