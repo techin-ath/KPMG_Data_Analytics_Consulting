@@ -1,2 +1,2 @@
-# Data_Insights
+# Data Insights
 
