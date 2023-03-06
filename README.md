@@ -26,7 +26,7 @@ This project consists of two main tasks:
 ## Methods used
 The project involves several methods used in data analytics, including:                    
 * Data Cleaning
-* Exploratory Aata Analysis(EDA)
+* Exploratory Data Analysis(EDA)
 * RFM Analysis
 * Customer Segmentation
 * Data Visualization
